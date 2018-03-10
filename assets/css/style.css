@@ -57,23 +57,19 @@ h1 {
   }
   
   #redCrystal{
-    background-image: url(images/red.jpeg);
-    background-size: contain;
+    background-color: white;
     width: 150px;
     height: 150px;
-  
   }
   
   #blueCrystal{
-    background-image: url(images/blue.jpeg);
+    background-color: white;
     background-size: contain;
     width: 150px;
     height: 150px;
-  
   }
   
   #greenCrystal{
-    background-image: url(images/green.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     background-color: white;
@@ -83,7 +79,6 @@ h1 {
   }
   
   #purpleCrystal{
-    background-image: url("../images/purplecrystal.jpeg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: white;
