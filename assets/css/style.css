@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: left;
+  }
+  
+  .btn-group{
+    padding-top: 15px;
+    margin-left: 15px;
+  
+  }
+  #goalBox{
+    background-color: lavenderblush;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  #play{
+    width: 150px;
+  }
+  .btn-success{
+    width: 200px;
+    height:200px;
+  }
+  
+  #winLossBox{
+    background-color: orchid;
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+  }
+  
+  #losses{
+    margin-top: 40%;
+  }
+  
+  #wins{
+    margin-top: 20%;
+  }
+  
+  #total{
+    background-color:  orangered;
+    height: 30px;
+    width: 300px;
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  #currentScore{
+    height: 200px;
+    width: 300px;
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  #redCrystal{
+    background-image: url(images/red.jpeg);
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+  
+  }
+  
+  #blueCrystal{
+    background-image: url(images/blue.jpeg);
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+  
+  }
+  
+  #greenCrystal{
+    background-image: url(images/green.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+  
+  }
+  
+  #purpleCrystal{
+    background-image: url("../images/purplecrystal.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 150px;
